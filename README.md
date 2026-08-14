@@ -1,4 +1,5 @@
-Scratch NumPy LSTM Weather Forecasting & Uncertainty Estimation System
+#Sky Cast#
+LSTM Weather Forecasting & Uncertainty Estimation System
 A production-grade, mathematically verified time-series weather forecasting system built entirely from scratch using only NumPy. The model ingests a 30-day sequence of multi-variate weather observations and predicts the next 7 days of maximum daily temperatures (
 T
 m
