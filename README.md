@@ -70,8 +70,7 @@ Aleatoric Uncertainty: Softplus parametric Gaussian variance output head (
 σ
 ^
   
-2
- ) trained via Negative Log-Likelihood (NLL).
+trained via Negative Log-Likelihood (NLL).
 Epistemic Uncertainty: Monte Carlo (MC) Dropout (
 M
 =
