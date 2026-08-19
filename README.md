@@ -100,5 +100,4 @@ C
 %
 97.8% (Empirically well-calibrated).
 Interactive Dark Glassmorphism Web Dashboard:
-Live web application hosted at http://localhost:8080.
 Real-time 7-day forecast chart with shaded 95% confidence bounds, uncertainty decomposition breakdown, historical 30-day lookback plots, and an interactive Weather Scenario Simulator (What-If Sandbox).
